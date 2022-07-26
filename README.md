@@ -1,3 +1,8 @@
+Application Screenshot:
+![Password Generator](
+/Yeletta/Challenge-Three-Password-Generator/YBanks Password Generator Screenshot.png)
+
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
