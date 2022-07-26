@@ -1,6 +1,9 @@
 Application Screenshot:
 ![YBanks Password Generator Screenshot](https://user-images.githubusercontent.com/108251293/180919071-7bda1f76-f157-4c10-84f5-307da16935a8.png)
 
+Application link:
+https://yeletta.github.io/Challenge-Three-Password-Generator/
+
 # 03 JavaScript: Password Generator
 
 ## Your Task
